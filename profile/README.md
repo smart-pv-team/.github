@@ -1,4 +1,4 @@
-Product still in development, final version will be completed till 15.01.2023. Currently consist of 4 repositories:
+Product still in development, final version will be completed till 03.01.2023. Currently consist of 4 repositories:
 
 * smart-pv-server - server that manages IoT devices and handling apps requests. Java + Spring technology with hexagonal architecture
 
