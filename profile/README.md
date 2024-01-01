@@ -23,19 +23,19 @@ Project consist of 3 systems:
 ### Visuals
 
 _Place where the system was installed_
-![farm.JPG](visuals/farm.JPG)
+![farm.JPG](./profile/visuals/farm.JPG)
 
 
 _Statistics of example day visualisation_ 
-![chart.JPG](visuals/chart.png)
+![chart.JPG](./profile/visuals/chart.png)
 
 
 _Mobile app example view_
-![measuring_device.jpg](visuals/measuring_device.jpg)
+![measuring_device.jpg](./profile/visuals/measuring_device.jpg)
 
 
 _Web app example view_
-![interval_algorithm.png](visuals/interval_algorithm.png)
+![interval_algorithm.png](./profile/visuals/interval_algorithm.png)
 
 
 ### Creators 
