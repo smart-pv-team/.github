@@ -23,7 +23,7 @@ Project consist of 3 systems:
 ### Visuals
 
 _Place where the system was installed_
-![farm.JPG](profile/visuals/farm.JPG)
+![farm.JPG](./visuals/farm.JPG)
 
 
 _Statistics of example day visualisation_ 
