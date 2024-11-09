@@ -27,15 +27,15 @@ _Place where the system was installed_
 
 
 _Statistics of example day visualisation_ 
-![chart.JPG](./profile/visuals/chart.png)
+![chart.JPG](./visuals/chart.png)
 
 
 _Mobile app example view_
-![measuring_device.jpg](./profile/visuals/measuring_device.jpg)
+![measuring_device.jpg](./visuals/measuring_device.jpg)
 
 
 _Web app example view_
-![interval_algorithm.png](./profile/visuals/interval_algorithm.png)
+![interval_algorithm.png](./visuals/interval_algorithm.png)
 
 
 ### Creators 
